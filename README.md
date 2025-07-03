@@ -1,6 +1,6 @@
 # COSMO theme for Ulauncher
 
-The theme that matches COSMO color scheme, some incompatibilities may occur, sorry, you can change the css file optionally.
+The theme that matches COSMO color scheme.
 
 ![Preview](ul-cosmo.png)
 
